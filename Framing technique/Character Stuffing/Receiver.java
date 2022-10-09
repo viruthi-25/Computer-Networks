@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.io.FileReader;
-public class Charr
+public class Receiver
 {
 public static void main(String[] args)
 {
