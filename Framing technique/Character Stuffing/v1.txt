@@ -1,0 +1,6 @@
+stx
+apple
+dle
+etx
+orange
+etx
